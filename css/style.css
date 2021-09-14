@@ -13,13 +13,19 @@ hr {
     margin: 2% 0;
     border: 1px solid #EEE;
 }
-
-/* HEADER */
+h3 {
+    margin-top: 20px;
+}
+p {
+    margin:3px 0 25px;
+}
 header {
     height: 5%;
     background-color: #FFF;
     padding: 1% 1%;
 }
+/* HEADER */
+
 .img {
     vertical-align: middle;
 }
@@ -58,12 +64,6 @@ header {
 }
 
 /* NEWS AREA */
-h3 {
-    margin-top: 20px;
-}
-p {
-    margin:3px 0 25px;
-}
 .check {
     margin-right: 8px;
     padding: 1px 0 1px 2px;
