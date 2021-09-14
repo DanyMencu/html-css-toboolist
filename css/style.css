@@ -5,9 +5,24 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+body {
+    background-color: #EEE;
+}
 
 /* HEADER */
-
+header {
+    height: 5%;
+    background-color: #FFF;
+    padding: 1% 1%;
+}
+.img {
+    vertical-align: middle;
+}
+.header-name {
+    font-size: 30px;
+    text-align: center;
+    vertical-align: middle;
+}
 
 /* MAIN CONTAINER */
 
