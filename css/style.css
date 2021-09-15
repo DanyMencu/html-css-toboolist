@@ -24,40 +24,40 @@ header {
     vertical-align: middle;
 }
 .header-name {
-    font-size: 38px;
-    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
     vertical-align: middle;
 }
 
 /* MAIN CONTAINER */
 .conteiner {
     width: 70%;
-/*     margin: 3% auto 1%;
- */    padding: 3% 4%;
     border-radius: 3px;
     background-color: #FFF;
 }
 .up {
     margin: 3% auto 2px;
+    padding: 2% 3%;
 }
 .down {
     margin: 0 auto 1%;
+    padding: 3% 4%;
 }
 
 /* TASK/SECTION AREA */
-.button {
+.btn {
     height: 25px;
-    font-size: small;
+    font-size: 12px;
     border-radius: 3px;
 }
 .task {
-    width: 70px;
-    border: 0;
+    width: 13%;
+    border: 1px solid #47adf1;
     background-color: #47adf1;
     color: #FFF;
 }
 .section {
-    width: 90px;
+    width: 18%;
     border: 1.5px solid #DDD;
     background-color: #FFF;
     color: #DDD;
